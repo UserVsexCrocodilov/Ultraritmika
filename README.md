@@ -1,2 +1,2 @@
-# fangoritmika
-Fangoritmika - клон learn.algoritmika.org
+# Ultraritmika
+Ultraritmika - клон learn.algoritmika.org
